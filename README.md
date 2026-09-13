@@ -20,6 +20,8 @@ The initial design assumes differential drive on flat floors. Precise docking an
 
 Use the same versions and confirm hardware driver compatibility. See the [Gazebo compatibility guide](https://gazebosim.org/docs/harmonic/ros_installation/).
 
+For Setup and simulation commands, refer : README_commands.md file
+
 ## ROS 2 nodes
 
 | Node or component | Responsibility | Main interfaces |
